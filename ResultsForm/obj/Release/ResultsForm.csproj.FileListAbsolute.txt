@@ -1,0 +1,10 @@
+C:\Users\yuridia.perez\source\repos\UtilitiesDB\ResultsForm\bin\Release\ResultsForm.exe.config
+C:\Users\yuridia.perez\source\repos\UtilitiesDB\ResultsForm\bin\Release\ResultsForm.exe
+C:\Users\yuridia.perez\source\repos\UtilitiesDB\ResultsForm\bin\Release\ResultsForm.pdb
+C:\Users\yuridia.perez\source\repos\UtilitiesDB\ResultsForm\obj\Release\ResultsForm.csproj.AssemblyReference.cache
+C:\Users\yuridia.perez\source\repos\UtilitiesDB\ResultsForm\obj\Release\ResultsForm.ResultsForm.resources
+C:\Users\yuridia.perez\source\repos\UtilitiesDB\ResultsForm\obj\Release\ResultsForm.Properties.Resources.resources
+C:\Users\yuridia.perez\source\repos\UtilitiesDB\ResultsForm\obj\Release\ResultsForm.csproj.GenerateResource.cache
+C:\Users\yuridia.perez\source\repos\UtilitiesDB\ResultsForm\obj\Release\ResultsForm.csproj.CoreCompileInputs.cache
+C:\Users\yuridia.perez\source\repos\UtilitiesDB\ResultsForm\obj\Release\ResultsForm.exe
+C:\Users\yuridia.perez\source\repos\UtilitiesDB\ResultsForm\obj\Release\ResultsForm.pdb

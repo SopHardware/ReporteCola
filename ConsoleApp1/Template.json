@@ -1,0 +1,9 @@
+{
+  "Database": "db_name",
+  "User": "nm_user",
+  "Password": "pssd_user!",
+  "Timeout": 30,
+  "Servers": [
+    "Server|clave"
+  ]
+}
